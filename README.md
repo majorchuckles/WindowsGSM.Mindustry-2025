@@ -9,7 +9,7 @@ WindowsGSM plugin for supporting Mindustry Updated for 2025
 Updated from original author https://github.com/Kickbut101/WindowsGSM.Mindustry
 
 ## Requirements
-[WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) >= 1.21.0
+[WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) >= 1.23.0
 
 Java
 
